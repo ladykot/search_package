@@ -1,5 +1,6 @@
-print(f'Инициализация пакета {__name__} ... ')
-import search_package.exersises
+from search_package.apps_folder import main
 
 
+print('... Собираю ссылки')
 
+main.main()
