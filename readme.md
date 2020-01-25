@@ -8,7 +8,9 @@
 
 Установка:
 Добавляем необходимые библиотеки:
-    `pip install -r requirements.txt`
+
+    pip install -r requirements.txt
     
 Использование пакета:
-    `import search_package`
+
+    import search_package
